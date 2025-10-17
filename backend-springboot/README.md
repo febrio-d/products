@@ -71,7 +71,7 @@ A modern, best-practice REST API built with Java and Spring Boot for managing a 
 
 1. Open the project's root `pom.xml` file with IntelliJ IDEA. Select "Open as Project".
 2. Wait for the IDE to index the files and automatically download all the Maven dependencies.
-3. Navigate to the main application class: `src/main/java/com/example/bestpracticeapp/BestPracticeAppApplication.java`.
+3. Navigate to the main application class: `src/main/java/org/multigunagemilang/ProductsListApplication.java`.
 4. Click the green "play" icon next to the main method to build and run the application.
 
 ### Running with Maven
@@ -115,7 +115,7 @@ The application will start on `http://localhost:8080`. You can access the Swagge
 src/
 └── main/
     ├── java/
-    │   └── com/example/bestpracticeapp/
+    │   └── org/multigunagemilang/
     │       ├── config/           # Global configuration (CORS, OpenAPI)
     │       ├── controller/       # API Layer (HTTP request handling)
     │       ├── dto/              # Data Transfer Objects

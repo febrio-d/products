@@ -54,7 +54,7 @@ A modern, best-practice frontend application built with React, Vite, and shadcn/
 
    ```bash
    git clone <your-repository-url>
-   cd your-project/frontend
+   cd frontend-react
    ```
 
 2. **Install project dependencies**:
@@ -76,7 +76,7 @@ The application will be available at `http://localhost:5173`.
 ## Project Structure
 
 ```
-frontend/
+frontend-react/
 ├── public/
 ├── src/
 │   ├── components/
